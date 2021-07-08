@@ -2606,6 +2606,14 @@ footer .image-divider.fixed-height{
 	margin-top:10px;
 }
 
+.entourage-name{
+	font-family: 'Oswald', sans-serif; 
+	font-size:20px; 
+	color:#FFF; 
+	letter-spacing:3px; 
+	margin-top:10px;
+}
+
 
 /*===============================================*/
 /* 13. OTHER PAGE								 */
@@ -3721,4 +3729,13 @@ footer .image-divider.fixed-height{
 	letter-spacing:3px; 
 	margin-top:10px;
 }
+
+.entourage-name{
+	font-family: 'Oswald', sans-serif; 
+	font-size:20px; 
+	color:#FFF; 
+	letter-spacing:3px; 
+	margin-top:10px;
+}
+
 }
